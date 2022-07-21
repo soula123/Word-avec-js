@@ -1,1 +1,1 @@
-# Word-avec-js
+# wordinjs
